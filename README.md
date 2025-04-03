@@ -5,3 +5,8 @@
 - 기존 FE는 변한것 없음 (똑같은 usequery , usemutation)
 - field 추가는 REST API에서 처리
 - FE가 UI에서 필요한것 next server에서 response값 전달
+
+## required pakcages
+
+- as-integrations/next
+- apollo-client/server
